@@ -1,3 +1,5 @@
+This work was inspired by the obesity ML challenge presented by CrunchDAO and the Broad Institute.
+
 This project studies how cells become fat cells using gene perturbation data from the Broad Institute obesity machine learning challenge.
 
 Each experiment turns off one gene and measures how the cell changes. Even though many genes are involved, the changes in the cells follow a very simple pattern.
