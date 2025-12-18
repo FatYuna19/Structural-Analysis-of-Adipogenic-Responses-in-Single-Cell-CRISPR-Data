@@ -1,0 +1,18 @@
+{
+  "anndata": "0.12.6",
+  "machine": "AMD64",
+  "numpy": "2.2.0",
+  "obesity_challenge_1.h5ad_sha256": "2f7dfa0d2c9d4dd38f9d25b6707a8b681fc2bb99ad73f9ba55d6824bb4570aac",
+  "os": "Windows",
+  "os_release": "10",
+  "pandas": "2.3.2",
+  "processor": "AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD",
+  "program_proportion.csv_sha256": "5ef3bc9249c4d5381ee8103bb70a5c0f6a2ffd1b52fc0fcde2f37f08fb92bcf3",
+  "provenance_patch": true,
+  "python_implementation": "CPython",
+  "python_version": "3.11.9",
+  "run_timestamp_utc": "2025-12-17T15:20:36Z",
+  "scanpy": "1.11.5",
+  "scipy": "1.16.1",
+  "sklearn": "1.7.1"
+}
