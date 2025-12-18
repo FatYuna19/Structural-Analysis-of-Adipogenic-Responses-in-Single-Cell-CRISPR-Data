@@ -11,3 +11,5 @@ This direction was found using an unsupervised method, meaning no fat cell label
 I also tested many other random directions and showed that none of them worked. This shows that the result is not due to chance and that the direction is required for fat cell formation in this dataset.
 
 The goal of this work is not to build a prediction model. The goal is to understand the basic rule that must be satisfied before fat cells can form.
+
+Video Overview: https://notebooklm.google.com/notebook/4fff7af8-5c25-40a0-92b3-1138e34bc110?artifactId=6d47a496-5f2d-4db9-9e4e-5c5a685134c4
